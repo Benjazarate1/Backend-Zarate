@@ -109,5 +109,4 @@ console.log('Metodo getProductById')
 console.log(ManejadorProductos.getProductById(2))
 
 console.log('Metodo getProductById')
-console.log(ManejadorProductos.getProductById(10)) 
-
+console.log(ManejadorProductos.getProductById(10))
