@@ -1,0 +1,43 @@
+[
+    {
+       "title": "Remera",
+        "description": "Talle XL",
+        "Price": 200,
+        "code": "a",
+        "stock": 1,
+        "status": true,
+        "category": "remera", 
+		"id": 1        
+    },
+    {
+        "title": "Buzo",
+         "description": "Talle M",
+         "Price": 150,
+         "code": "b",
+         "stock": 1,
+         "status": true,
+         "category": "buzo", 
+         "id": 2        
+    },
+    {
+        "title": "Campera",
+         "description": "Talle XL",
+         "Price": 250,
+         "code": "c",
+         "stock": 1,
+         "status":true,   
+         "category": "campera", 
+         "id": 3        
+    },
+    {
+        "title": "Pantalon",
+         "description": "Talle XL",
+         "Price": 250,
+         "code": "d",
+         "stock": 1,
+         "status": true,
+         "category": "pantalon", 
+         "id": 4        
+     }
+
+]
