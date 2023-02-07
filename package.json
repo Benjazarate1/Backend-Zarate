@@ -12,10 +12,15 @@
   },
   "keywords": [],
   "author": "",
-  "type":"module",
+  "type": "module",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Benjazarate1/Backend-Zarate/issues"
   },
-  "homepage": "https://github.com/Benjazarate1/Backend-Zarate#readme"
+  "homepage": "https://github.com/Benjazarate1/Backend-Zarate#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-handlebars": "^6.0.7",
+    "socket.io": "^4.5.4"
+  }
 }
